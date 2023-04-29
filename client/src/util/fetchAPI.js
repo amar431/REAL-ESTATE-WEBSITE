@@ -1,4 +1,4 @@
-const BASE_URL = "https://real-estate-website-mern.onrender.com"
+const BASE_URL = "https://realestate-api-8q7w.onrender.com"
 
 export const request = async (url, method, headers = {}, body = {}, isNotStringified = false) => {
     let res
